@@ -29,3 +29,15 @@ These assessments are usually conducted **partially remotely and partially on th
 The auditor is provided with infrastructure data, user accounts (usually without privileges), general information about the applications under analysis, and specific instructions regarding the components to be tested.
 
 Internal attacks or data leaks are often caused by **disgruntled employees** who have access to infrastructure information and system access, typically with limited user privileges. This provided information allows the auditor to better understand the infrastructure, making the penetration test easier; however, it must also be taken into account that there are **more components that need to be analyzed**.
+
+## Team dynamics
+
+**Red team** refers to the group of people who perform **ethical hacking activities**. This team is made up of **security professionals** who act as **adversaries** to plan and bypass an organization's cybersecurity controls.
+
+With the goal of generating **competitiveness** and improving the **security performance** of an organization, the concept of the **blue team** was created. This team serves as the **antithesis** of the red team, and its objectives are based on **protecting critical assets** of the organization against any type of threat, through practices such as: **auditing the network, setting up firewalls, installing security software**, etc.
+
+However, although **red and blue teams share common objectives**, they are often **not politically aligned**. For example, red teams that report vulnerabilities are **praised for a job well done**, so they are **not incentivized** to help the blue team strengthen security by sharing information on how they bypassed defenses.
+
+This is where the concept of the **purple team** comes into play. The goal of a purple team is to **bring Red and blue teams together**, encouraging them to **collaborate**, **share knowledge**, and create a **strong feedback loop**.
+
+![Red team vs blue team vs purple team](../../assets/red-team-vs-blue-team-vs-purple-team.jpeg "Red team vs blue team vs purple team")

@@ -33,6 +33,28 @@ nav:
       - Fundamentals:
           - Overview: ethical-hacking/fundamentals/index.md
           - Methodologies: ethical-hacking/fundamentals/methodologies.md
+      
+      - Reconnaissance:
+          - Overview: ethical-hacking/reconnaissance/index.md
+          - Tools: ethical-hacking/reconnaissance/tools.md
+      
+      - Enumeration:
+          - Overview: ethical-hacking/enumeration/index.md
+          - Information management: ethical-hacking/enumeration/information-management.md
+          - Tools: ethical-hacking/enumeration/tools.md
+      
+      - Vulnerability analysis:
+          - Overview: ethical-hacking/vulnerability-analysis/index.md
+          - Tools: ethical-hacking/vulnerability-analysis/tools.md
+
+      - Explotation:
+          - Overview: ethical-hacking/explotation/index.md
+          - Tools: ethical-hacking/explotation/tools.md
+      
+      - Post-explotation:
+          - Overview: ethical-hacking/post-explotation/index.md
+          - Privilege escalation: ethical-hacking/post-explotation/privilege-escalation.md
+          - Tools: ethical-hacking/post-explotation/tools.md
 
   - Digital forensics:
       - Introduction: digital-forensics/index.md
