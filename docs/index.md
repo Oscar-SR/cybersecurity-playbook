@@ -1,6 +1,6 @@
-# CyberOps Cheatsheet
+# Cybersecurity Playbook
 
-Welcome to the **CyberOps Cheatsheet**, a practical repository on cyber operations, including cyber intelligence, ethical hacking, malware analysis, and digital forensics.  
+Welcome to the **Cybersecurity Playbook**, a practical repository on cyber operations, including cyber intelligence, ethical hacking, malware analysis, and digital forensics.  
 
 **CyberOps** (Cyber Operations) refers to the practice of **protecting, monitoring, and investigating digital systems**, while also understanding offensive techniques used in cybersecurity. It combines **defensive and offensive skills** to detect, analyze, and respond to cyber threats effectively.
 

@@ -1,4 +1,4 @@
-# 🗄️ CyberVault
+# Cybersecurity Playbook
 
 This repository is a collection of knowledge and write-ups about **cyber threat intelligence**, **ethical hacking**, **digital forensics** and **malware analysis**, that can be applied in practical scenarios. It is designed for analysts, researchers, and security professionals, it aims to support real-world investigations, incident response, and strategic decision-making by offering a quick, structured, and continuously updated resource.
 

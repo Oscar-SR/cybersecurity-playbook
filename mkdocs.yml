@@ -1,5 +1,5 @@
-site_name: CyberOps Cheatsheet
-site_url: https://oscar-sr.github.io/cyberops-cheatsheet/
+site_name: Cybersecurity Playbook
+site_url: https://oscar-sr.github.io/cybersecurity-playbook/
 
 nav:
   - Home: index.md
@@ -65,29 +65,30 @@ nav:
 theme:
   name: material
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Inter
+    code: JetBrains Mono
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.footer
+    - navigation.top
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: teal
+      accent: cyan
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: blue grey
+      accent: teal
 
 markdown_extensions:
   - attr_list
