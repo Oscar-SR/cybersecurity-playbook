@@ -59,8 +59,8 @@ nav:
   - Digital forensics:
       - Introduction: digital-forensics/index.md
 
-  - Malware analysis:
-      - Introduction: malware-analysis/index.md
+  - Reverse engineering:
+      - Introduction: reverse-engineering/index.md
 
 theme:
   name: material

@@ -1,6 +1,6 @@
 # Cybersecurity Playbook
 
-Welcome to the **Cybersecurity Playbook**, a practical repository on cyber operations, including cyber intelligence, ethical hacking, malware analysis, and digital forensics.  
+Welcome to the **Cybersecurity Playbook**, a practical repository on cyber operations, including cyber intelligence, ethical hacking, reverse engineering, and digital forensics.  
 
 **CyberOps** (Cyber Operations) refers to the practice of **protecting, monitoring, and investigating digital systems**, while also understanding offensive techniques used in cybersecurity. It combines **defensive and offensive skills** to detect, analyze, and respond to cyber threats effectively.
 
@@ -23,7 +23,7 @@ The content prioritizes:
 - **[Cyber Threat Intelligence](cyber-threat-intelligence/index.md)** – Intelligence cycle, sources, and methodologies.  
 - **[Ethical Hacking](ethical-hacking/index.md)** – Tools, techniques, and best practices for penetration testing and security assessment.  
 - **[Digital Forensics](digital-forensics/index.md)** – Incident investigation, evidence collection, and forensic analysis of digital systems.  
-- **[Malware Analysis](malware-analysis/index.md)** – Dynamic and static analysis of malicious software, reverse engineering, and sandbox techniques.
+- **[Reverse Engineering](reverse-engineering/index.md)** – Dynamic and static analysis of malicious software, reverse engineering, and sandbox techniques.
 
 ---
 
